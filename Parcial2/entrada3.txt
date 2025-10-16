@@ -1,0 +1,14 @@
+#Entrada
+1. Tamaño total de memoria: 150
+2. Esquema de particionamiento: 1 (Fijo)
+- Particiones: 3
+- Tamaño 0: 20
+- Tamaño 1: 50
+- Tamaño 2: 80
+3. Algoritmo de asignación: 1 (First Fit)
+A P1 18
+A P2 45
+A P3 20
+L P1
+A P4 15
+M

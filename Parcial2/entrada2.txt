@@ -1,0 +1,9 @@
+#Entrada
+1. Tamaño total de memoria: 100
+2. Esquema de particionamiento: 2 (Dinámico)
+3. Algoritmo de asignación: 3 (Worst Fit)
+A P1 10
+A P2 25
+L P1
+A P3 8
+M

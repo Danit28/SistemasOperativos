@@ -1,0 +1,10 @@
+ONFIGURACIÓN PARA EL SIMULADOR:
+1. Tamaño total de memoria: 200
+2. Esquema de particionamiento: 2 (Dinámico)
+3. Algoritmo de asignación: 2 (Best Fit)
+A P1 50
+A P2 30
+A P3 60
+L P2
+A P4 28
+M
